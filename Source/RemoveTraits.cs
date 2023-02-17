@@ -56,7 +56,7 @@ namespace RemoveTraits
 
     public class RemoveTraits : Recipe_Surgery
     {
-        public override bool AvailableOnNow(Thing thing)
+        public override bool AvailableOnNow(Thing thing, BodyPartRecord part = null)
         {
 
             if (thing is Pawn pawn)
