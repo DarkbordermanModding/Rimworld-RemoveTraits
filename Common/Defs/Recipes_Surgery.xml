@@ -26,8 +26,8 @@
     <label>Remove a trait</label>
     <description>Randomly remove a colonist's trait using old and brutal mean.  The colonist may die in process.</description>
     <jobString>Removing traits.</jobString>
-    <surgerySuccessChanceFactor>0.75</surgerySuccessChanceFactor>
-    <deathOnFailedSurgeryChance>0.25</deathOnFailedSurgeryChance>
+    <surgerySuccessChanceFactor>0.60</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.10</deathOnFailedSurgeryChance>
     <ingredients>
       <li>
         <filter><categories><li>Medicine</li></categories></filter>
