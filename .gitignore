@@ -5,3 +5,8 @@
 workshop.vdf
 
 # Game intermediate builds and artifacts
+Source/bin/
+Source/obj/
+Source/.vs
+.vs/
+
